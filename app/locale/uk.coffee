@@ -9,7 +9,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
     ipad_browser: "Погана новина: CodeCombat не працює у браузері iPad. Хороша новина: наш спеціальний додаток iPad очікує на модерацію Apple."
     campaign: "Кампанія"
     for_beginners: "Для новачків"
-    multiplayer: "Командна гра" # Not currently shown on home page
+    multiplayer: "Командна гра(мультиплeєр)" # Not currently shown on home page
     for_developers: "Для розробників" # Not currently shown on home page.
     or_ipad: "Або завантажте на iPad"
 
@@ -17,7 +17,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
     play: "Грати" # The top nav bar entry where players choose which levels to play
     community: "Спільнота"
     editor: "Редактор"
-    blog: "Блоґ"
+    blog: "Блог"
     forum: "Форум"
     account: "Акаунт"
     profile: "Профіль"
@@ -1546,7 +1546,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
     get_started: "Почнемо"
     already_screened: "Ми вже технічно просіяли всіх наших кандидатів"
     filter_further: ", але ви можете профільтрувати далі:"
-    filter_visa: "Visa"
+    filter_visa: "Visa(Віза)"
     filter_visa_yes: "Дозвіл на роботу в США"
     filter_visa_no: "Немає дозволу на роботу"
     filter_education_top: "Вища освіта"
